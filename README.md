@@ -1,1 +1,1 @@
-You can find my Excel, SQL Server projects and Power BI projects in the .pbix or .vpax extension here.
+You can find my Excel, SQL Server, and Power BI projects with the .pbix or .vpax extension here
